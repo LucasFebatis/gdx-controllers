@@ -4,6 +4,11 @@
 
 Fork made only for use with version 2.0.12.0 of Jamepad, while version 2.0.12.1 with player selection support is not released and the main repository uses it
 
+## For Mappings
+
+[📖️ Go to Wiki](https://github.com/LucasFebatis/gdx-controllers/wiki)
+
+
 # 🎮️ Game Controller Extension for libGDX, Version 2
 
 Use game controllers with ease in your libGDX games.
