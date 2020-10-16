@@ -29,10 +29,19 @@ Add the following dependencies:
 ```
 implementation "com.badlogicgames.gdx-controllers:gdx-controllers-core:$gdxControllersVersion"
 ```
+
 #### desktop:
+
+##### Original
 ```
 implementation "com.badlogicgames.gdx-controllers:gdx-controllers-desktop:$gdxControllersVersion"
 ```
+
+##### This Git
+```
+api 'com.github.LucasFebatis.gdx-controllers:gdx-controllers-desktop:master-SNAPSHOT'
+```
+
 #### android:
 ```
 implementation "com.badlogicgames.gdx-controllers:gdx-controllers-android:$gdxControllersVersion"
