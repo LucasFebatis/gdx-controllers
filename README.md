@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/LucasFebatis/gdx-controllers.svg)](https://jitpack.io/#LucasFebatis/gdx-controllers)
+
 # 🎮️ Game Controller Extension for libGDX, Version 2
 
 Use game controllers with ease in your libGDX games.
