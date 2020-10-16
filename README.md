@@ -1,5 +1,9 @@
 [![](https://jitpack.io/v/LucasFebatis/gdx-controllers.svg)](https://jitpack.io/#LucasFebatis/gdx-controllers)
 
+# 🤔 Why does this fork exist?
+
+Fork made only for use with version 2.0.12.0 of Jamepad, while version 2.0.12.1 with player selection support is not released and the main repository uses it
+
 # 🎮️ Game Controller Extension for libGDX, Version 2
 
 Use game controllers with ease in your libGDX games.
