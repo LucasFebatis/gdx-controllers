@@ -193,21 +193,22 @@ public class JamepadController implements Controller {
 
     @Override
     public int getPlayerIndex() {
-        try {
-            return controllerIndex.getPlayerIndex();
-        } catch (ControllerUnpluggedException e) {
-            setDisconnected();
-            return PLAYER_IDX_UNSET;
-        }
+//        try {
+//            return controllerIndex.getPlayerIndex();
+//        } catch (ControllerUnpluggedException e) {
+//            setDisconnected();
+//            return PLAYER_IDX_UNSET;
+//        }
+        return -1;
     }
 
     @Override
     public void setPlayerIndex(int index) {
-        try {
-            controllerIndex.setPlayerIndex(index);
-        } catch (ControllerUnpluggedException e) {
-            setDisconnected();
-        }
+//        try {
+//            controllerIndex.setPlayerIndex(index);
+//        } catch (ControllerUnpluggedException e) {
+//            setDisconnected();
+//        }
     }
 
     @Override
