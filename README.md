@@ -4,6 +4,18 @@
 
 Fork made only for use with version 2.0.12.0 of Jamepad, while version 2.0.12.1 with player selection support is not released and the main repository uses it
 
+## How to use
+
+1. Use the libGDX project builder available in: https://libgdx.badlogicgames.com/download.html
+2. Change dependencies
+
+api "com.badlogicgames.gdx:gdx-controllers-desktop:$gdxVersion"
+api "com.badlogicgames.gdx:gdx-controllers-platform:$gdxVersion:natives-desktop"
+
+by:
+
+api 'com.github.LucasFebatis.gdx-controllers:gdx-controllers-desktop:1.0'
+
 ## For Mappings
 
 [📖️ Go to Wiki](https://github.com/LucasFebatis/gdx-controllers/wiki)
